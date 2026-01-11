@@ -1,5 +1,25 @@
-- 👋 Hi, I’m @farhan.mehmod
-- 👀 I’m interested in Cyber Sec
-- 🌱 I’m currently learning Py & Cpp
-- 💞️ I’m looking to collaborate on Nothin
-- 📫 How to reach me (You cant)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ca52693-5e8a-491f-b37d-9f8145a4906e" />- 👋 Hi, I’m @farhan.mehmod
+👋 I'm Farhan Mehmood
+Full-Stack Software Engineer I specialize in building distributed systems and cross-platform applications.
+My work focuses on the intersection of reactive frontends, statically-typed backends, and edge computing.
+🛠 Technical Stack :
+Frontend: Vue.js (Pinia/Vuex), TypeScript, Tailwind CSS
+Backend: C# / ASP.NET Core, Entity Framework, RESTful APIs
+Mobile: Flutter & Dart (Cross-platform)
+Infrastructure: Cloudflare Workers (Serverless/Edge), AWS S3, SQL Server, PostgreSQL
+
+📂 Current Focus & Learning : 
+
+🏗️ Architecting scalable microservices with ASP.NET Core.
+
+⚡ Optimizing edge performance using Cloudflare Workers.
+
+📱 Refining UI/UX patterns in Flutter for native-feel performance.
+
+🤝 Looking to collaborate on open-source Vue.js components or .NET utilities.
+
+🔗 Connectivity :
+
+Professional: LinkedIn
+
+Freelance: Upwork Profile
