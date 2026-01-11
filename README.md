@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6ca52693-5e8a-491f-b37d-9f8145a4906e" />- 👋 Hi, I’m @farhan.mehmod
 👋 I'm Farhan Mehmood
 Full-Stack Software Engineer I specialize in building distributed systems and cross-platform applications.
 My work focuses on the intersection of reactive frontends, statically-typed backends, and edge computing.
