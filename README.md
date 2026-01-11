@@ -26,6 +26,6 @@ Infrastructure: Cloudflare Workers (Serverless/Edge), AWS S3, SQL Server, Postgr
 
 🔗 Connectivity :
 
-Professional: LinkedIn
+Professional: LinkedIn : www.linkedin.com/in/farhan-mehmood-06aa143a4
 
-Freelance: Upwork Profile
+Freelance: Upwork Profile : https://www.upwork.com/freelancers/~016b051a2462aca2ab?mp_source=share
